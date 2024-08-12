@@ -1,4 +1,4 @@
-Simon is a classic  memory game that challenges players to repeat increasingly complex sequences .
-Simon’s interface consists of four colored buttons: red, green, blue, and yellow. 
-Each button produces a uniquelight pattern
-Deploy Here- 
+- Simon is a classic  memory game that challenges players to repeat increasingly complex sequences<br> 
+- Simon’s interface consists of four colored buttons: red, green, blue, and yellow. <br>
+-Each button produces a uniquelight pattern<br>
+-Deploy Here- https://comforting-crumble-85aa04.netlify.app/
